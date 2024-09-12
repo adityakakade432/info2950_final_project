@@ -1,4 +1,3 @@
-# info2950_final_project
+#The Factors Behind Determining a Country's Developed Status & GDP
 
-FOR PHASE 5 SUBMISSION:
-Look at PHASE_5_FINAL_NOTEBOOK.ipynb, Data_Cleaning_Appendix.ipynb
+For Full Project & Data Analysis, please view PHASE_5_FINAL_NOTEBOOK.ipynb, Data_Cleaning_Appendix.ipynb
